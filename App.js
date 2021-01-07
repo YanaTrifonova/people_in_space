@@ -94,7 +94,7 @@ export default function App() {
                 {!showRocket
                  ?
                  <View>
-                     <Text style={styles.text}>Do you want to know how many persons are there in the space?</Text>
+                     <Text style={styles.text}>Do you want to know how many people are there in the space?</Text>
                      <Button title="Yes, I am curious" onPress={onButtonClicked}/>
                  </View>
                  : null}
