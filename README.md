@@ -15,7 +15,7 @@ Rocket is managed by moving a phone down that simulates launching to Space.
 - expo-sensors
 - Axios
 
-## Demo~~~~
+## Demo
 
 Screen recording of running app from the phone
 
